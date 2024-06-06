@@ -1,1 +1,5 @@
-{}
+{
+  "todos": [
+    { "userId": 1, "id": 1, "title": "first todo", "completed": false },
+  ]
+}
