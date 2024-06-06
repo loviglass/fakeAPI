@@ -1,6 +1,6 @@
 {
   "todos": [
-    { "userId": 1, "id": 1, "title": "default todo", "completed": false },
+    { "userId": 1, "id": 1, "title": "default todo", "completed": false }
   ],
   "profile": {
     "name": "typicode"
